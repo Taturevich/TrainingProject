@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Theater", "EpamProject\Theater.csproj", "{DEEEE512-724C-4232-B3C7-12405CEB2188}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BusinessLogic", "BusinessLogic\BusinessLogic.csproj", "{1BA9C22A-A598-4ECA-9D9E-FDF07F2A7B8B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Domain", "Domain\Domain.csproj", "{E9BE3A5B-3F72-45E2-979E-2508262FA6BA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DEEEE512-724C-4232-B3C7-12405CEB2188}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEEEE512-724C-4232-B3C7-12405CEB2188}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEEEE512-724C-4232-B3C7-12405CEB2188}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEEEE512-724C-4232-B3C7-12405CEB2188}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1BA9C22A-A598-4ECA-9D9E-FDF07F2A7B8B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1BA9C22A-A598-4ECA-9D9E-FDF07F2A7B8B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1BA9C22A-A598-4ECA-9D9E-FDF07F2A7B8B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1BA9C22A-A598-4ECA-9D9E-FDF07F2A7B8B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E9BE3A5B-3F72-45E2-979E-2508262FA6BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9BE3A5B-3F72-45E2-979E-2508262FA6BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9BE3A5B-3F72-45E2-979E-2508262FA6BA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9BE3A5B-3F72-45E2-979E-2508262FA6BA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
